@@ -14,7 +14,7 @@ requestButton.onclick = function() {
 }
 
 showButton.onclick = function() {
-    Push.create("Hello from Sabe.io", {
+    Push.create("Hello from GitHub", {
         body: "This is a web notification!",
         icon: "icon.png",
         timeout: 5000,
