@@ -8,4 +8,4 @@ Using 👇 Push.js to Display Web Browser Notifications 🔔
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 ***
-![image](https://user-images.githubusercontent.com/19554935/47958401-75918580-dfa1-11e8-8905-5300d60dddfa.png)](https://pushjs.org/)
+[![image](https://user-images.githubusercontent.com/19554935/47958401-75918580-dfa1-11e8-8905-5300d60dddfa.png)](https://pushjs.org/)
